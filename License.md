@@ -4,7 +4,7 @@ Note that most of these images as-is are available as limited edition prints, wh
 So don't print them on paper (as prints) please or we'll all be swindling the folk who bought them as limited edition prints for their walls. If you want to use the images on T shirts or mugs or websites or ecards or tweets or cards or postcards or any other non-print-style usecase
 you can use the CC Attribution license below. If in doubt just drop me a line.
 
-## for non-paper-printed use: creative commons
+## for non-paper-printed use: creative commons attribution 4.0
 
 # Attribution 4.0 International
 
