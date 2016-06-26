@@ -1,7 +1,7 @@
-## for paper-printed use: no license
-Note that most of these painting images are available as limited edition prints, which means I've committed not to print the images on paper more than a certain number of times. 
+## for paper-printed (print-style) use: no license
+Note that most of these images as-is are available as limited edition prints, which means I've committed not to print the images as-is on paper as prints more than a certain number of times. 
 
-So don't print them on paper please or we'll all be swindling the folk who bought them as limited edition prints for their walls. If you want to use the images on T shirts or mugs or websites or ecards or tweets or any other non-paper-printed-picture-style usecase
+So don't print them on paper (as prints) please or we'll all be swindling the folk who bought them as limited edition prints for their walls. If you want to use the images on T shirts or mugs or websites or ecards or tweets or cards or postcards or any other non-print-style usecase
 you can use the CC Attribution license below. If in doubt just drop me a line.
 
 ## for non-paper-printed use: creative commons
